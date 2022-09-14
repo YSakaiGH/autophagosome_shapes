@@ -1,4 +1,4 @@
-# Experimental determination and mathematical modeling of standard shapes of forming autophagosomes
+# Mathematical modeling of standard shapes of forming autophagosomes
 
 Code used in the mathematical model calculations to determine the stable membrane shapes in the paper.\
 https://www.biorxiv.org/content/10.1101/2022.07.20.500884v1 \
