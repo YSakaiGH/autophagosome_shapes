@@ -1,5 +1,7 @@
 # Mathematical modeling of standard shapes of forming autophagosomes
 
+## calculation of stable membrane shapes
+
 Code used in the mathematical model calculations to determine the stable membrane shapes in the paper.\
 https://www.biorxiv.org/content/10.1101/2022.07.20.500884v1 \
 Figures 6, 7 and S3 in the paper can be computed using this code.\
