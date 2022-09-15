@@ -1,4 +1,4 @@
-# Experimental determination and mathematical modeling of standard shapes of forming autophagosomes
+# Mathematical modeling of standard shapes of forming autophagosomes
 
 Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
 
