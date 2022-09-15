@@ -1,4 +1,4 @@
-# Mathematical modeling of standard shapes of forming autophagosomes
+# Experimental determination and mathematical modeling of standard shapes of forming autophagosomes
 
 ## Calculation of stable membrane shapes
 
