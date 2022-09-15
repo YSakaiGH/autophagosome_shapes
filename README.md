@@ -2,7 +2,7 @@
 
 Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
 
-## Code to Calculate stable membrane shapes
+## Code to calculate stable membrane shapes
 
 This Code is used in the model calculations to determine the membrane shapes in the paper,\
 https://www.biorxiv.org/content/10.1101/2022.07.20.500884v1. \
