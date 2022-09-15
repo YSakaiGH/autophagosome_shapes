@@ -1,5 +1,7 @@
 # Experimental determination and mathematical modeling of standard shapes of forming autophagosomes
 
+Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
+
 ## Calculation of stable membrane shapes
 
 This Code is used in the model calculations to determine the membrane shapes in the paper,\
