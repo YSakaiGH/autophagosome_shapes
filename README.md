@@ -10,7 +10,8 @@ Figures 6, 7 and S3 in the paper were calculated using this code.
 
 The membrane shape is determined from the elastic bending energy using the Euler-Lagrange equation (S3).\
 Eq. (S3) is solved under the boundary conditions (S4)-(S5) to obtain the membrane coordinates (X, Z) at each s.\
-An example output is shown in the output.dat file, where the first column is s, the second column is x-coordinates, and the third column is y-coordinates.
+An example output is shown in the output.dat file, \
+where the first, second, and third columns are s, x-coordinates, and y-coordinates, respectively.
 
 Since the code is written in Fortran, it should be executed on a machine with a Fortran compiler installed.
 
