@@ -1,6 +1,6 @@
 # Experimental determination and mathematical modeling of standard shapes of forming autophagosomes.
 
-# Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
+## Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
 
 ## Code to calculate molecular dynamics of chromosomes
 
