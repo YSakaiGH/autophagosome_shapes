@@ -1,8 +1,6 @@
-# Single-nucleosome imaging unveils that condensins and nucleosome–nucleosome interactions differentially constrain chromatin to organize mitotic chromosomes
+# Experimental determination and mathematical modeling of standard shapes of forming autophagosomes.
 
-Kayo Hibino, Sachiko Tamura, Yuji Sakai, Masatoshi Takagi, Masa A. Shimazoe, Toyoaki Natsume, Masato Kanemaki, Naoko Imamoto, 
-Kazuhiro Maeshima
-
+Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
 
 ## Code to calculate molecular dynamics of chromosomes
 
