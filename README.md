@@ -1,8 +1,10 @@
-# Mathematical modeling of standard shapes of forming autophagosomes
+# Single-nucleosome imaging unveils that condensins and nucleosome–nucleosome interactions differentially constrain chromatin to organize mitotic chromosomes
 
-Yuji Sakai, Satoru Takahashi, Ikuko Koyama-Honda, Chieko Saito, Noboru Mizushima
+Kayo Hibino, Sachiko Tamura, Yuji Sakai, Masatoshi Takagi, Masa A. Shimazoe, Toyoaki Natsume, Masato Kanemaki, Naoko Imamoto, 
+Kazuhiro Maeshima
 
-## Code to calculate stable membrane shapes
+
+## Code to calculate molecular dynamics of chromosomes
 
 This Code is used in the model calculations to determine the membrane shapes in the paper,\
 https://www.biorxiv.org/content/10.1101/2022.07.20.500884v1. \
